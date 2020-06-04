@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ssss</title>
+    <title>Graficos</title>
 
     <!--Estilos del grafico -->
     <link rel="stylesheet" href="./css/anychart-font.css">
