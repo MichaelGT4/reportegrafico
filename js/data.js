@@ -2,9 +2,6 @@ anychart.onDocumentReady(function() {
     // create column chart
     var chart = anychart.column();
  
-    // set chart title
-    chart.title('Resultados de Evaluaciones por Materia');
- 
     // set chart data
     chart.data([
         {x: 'Español', value: 90},
