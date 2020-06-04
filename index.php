@@ -23,7 +23,7 @@
     } 
     </style>
     <!--CSS-->
-    <style> html, body, #container{ 
+    <style> html, body, #container2{ 
     width: 80%;
     height: 80%;
     margin: 0;
