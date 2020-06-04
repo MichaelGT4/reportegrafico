@@ -1,9 +1,6 @@
 anychart.onDocumentReady(function() {
     // create column chart
-    var chart = anychart.column();
- 
-    // set chart title
-    chart.title('Resultados de Evaluaciones por Materia');
+    var chart = anychart.pie();
  
     // set chart data
     chart.data([
